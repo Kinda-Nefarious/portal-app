@@ -1,5 +1,5 @@
 ---
-title: 'HR Table Age View'
+title: 'HR Table View'
 author: 'Rufaro Nyakudya'
 description: 'A Tabular view of the entire Dataset'
 modified: '2023-11-07'
